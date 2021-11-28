@@ -1,7 +1,4 @@
 Thie is line 1
 This is line 2
 This is line 3
-<<<<<<< HEAD
 This is line number 4
-=======
->>>>>>> 5bd47212ee1600ce261db77b6c555f7177e5b031
